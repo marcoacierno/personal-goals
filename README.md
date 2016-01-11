@@ -9,6 +9,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Get better at React Native
 2. Learn Unity
 3. Complete [Unity training stretch goals](https://unity3d.com/learn/tutorials/projects/stealth/stretch-goals?playlist=17168)
+4. Start a blog to improve my English
 
 # January 11, 2015
 
